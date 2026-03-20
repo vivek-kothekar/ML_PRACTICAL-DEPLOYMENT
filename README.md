@@ -1,1 +1,1 @@
-logistic_regression_iris_model Ddeploy
+logistic_regression_iris_model Ddeplyment in progress.
